@@ -13,8 +13,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
 </head>
     <body>
-        <div class="main">  	
+        <div class="main">
             <input type="checkbox" id="chk" aria-hidden="true">
+            
                 <div class="signup"><!-- Registrazione -->
                     <form method="POST">
                         <label for="chk" aria-hidden="true">Sign up</label>
